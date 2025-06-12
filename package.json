@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@netlify/vite-plugin": "^2.2.3",
     "vite": "latest"
-  },
-  "devDependencies": {}
+  }
 }
